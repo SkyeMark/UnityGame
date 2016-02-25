@@ -9,3 +9,4 @@ Noteworthy Items:
   - An error will show up in the Unity editors Console as an indicator if you forget to do this: "The variable PlayerObject of Player.cs has not been assigned. You probably need to assign the GameObject variable of Player.cs script in the inspector.
 
 - If you do use one of these scripts, let me know as I love to hear about others projects :)
+- License: GNU General Public License, version 3 (GPL-3.0)
