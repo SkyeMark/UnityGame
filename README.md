@@ -10,3 +10,5 @@ Noteworthy Items:
 
 - If you do use one of these scripts, let me know as I love to hear about others projects :)
 - License: GNU General Public License, version 3 (GPL-3.0)
+
+TODO: Change the drag and drop style of attaching game objects and transforms to the name search/tag method of assignment. This would allow others who use these scripts to simply either a) name the game object the as what is being used in the script, or b) change the script name to match their ingame objects.
