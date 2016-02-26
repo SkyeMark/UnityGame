@@ -62,7 +62,7 @@ public class Player : MonoBehaviour {
 			HealthRune5.GetComponent<SpriteRenderer> ().enabled = true;
 			HealthRune6.GetComponent<SpriteRenderer> ().enabled = true;
 			HealthRune7.GetComponent<SpriteRenderer> ().enabled = true;
-			HealthRune8.GetComponent<SpriteRenderer> ().enabled = true;;
+			HealthRune8.GetComponent<SpriteRenderer> ().enabled = true;
 		}
 		if (playerStats.Health == 70) {
 			HealthRune1.GetComponent<SpriteRenderer> ().enabled = true;
